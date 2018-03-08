@@ -1,0 +1,442 @@
+a:12:{s:6:"config";s:6955:"a:5:{s:10:"phpVersion";s:6:"5.6.25";s:10:"yiiVersion";s:10:"2.0.14-dev";s:11:"application";a:8:{s:3:"yii";s:10:"2.0.14-dev";s:4:"name";s:5:"BASIC";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.25";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:28:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-swiftmailer";}}s:22:"kartik-v/yii2-password";a:3:{s:4:"name";s:22:"kartik-v/yii2-password";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/password";s:63:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-password";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/grid";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-grid";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:63:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-bootstrap";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/base";s:66:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/time";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:73:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/rating";s:68:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/range";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/growl";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/file";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:76:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/color";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/alert";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/affix";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/form";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:62:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widgets";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/debug";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:8:"@yii/gii";s:57:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-faker";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:61:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-dialog";}}}}";s:7:"request";s:8071:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:11:{s:4:"host";s:9:"localhost";s:10:"user-agent";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0";s:6:"accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"accept-language";s:35:"fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:14:"content-length";s:2:"98";s:6:"cookie";s:421:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; PHPSESSID=de3fb3r93ussjg332d1ft1nk70; _csrf=e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC%22%3B%7D";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";}s:15:"responseHeaders";a:10:{s:12:"X-Powered-By";s:10:"PHP/5.6.25";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:8:"Location";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5a65ddd2ca11b";s:16:"X-Debug-Duration";s:3:"399";s:12:"X-Debug-Link";s:46:"/sgops_v2/debug/default/view?tag=5a65ddd2ca11b";s:10:"Set-Cookie";s:283:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; expires=Wed, 21-Feb-2018 12:49:22 GMT; Max-Age=2592000; path=/; httponly";}s:5:"route";s:30:"secteurs-activites-data/delete";s:6:"action";s:63:"app\controllers\SecteursActivitesDataController::actionDelete()";s:12:"actionParams";a:3:{i:0;s:5:"20008";i:1;s:5:"20014";i:2;s:4:"1005";}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:98:"_csrf=MKamRKTd24cJT30H7yIhOwa1kgCnNSSWpjWI0efspD5Kle8dnJCX0Ws4EUnbS21qZ9PaLcVWTszuT9iHhJ3TfQ%3D%3D";s:17:"Decoded to Params";a:1:{s:5:"_csrf";s:88:"MKamRKTd24cJT30H7yIhOwa1kgCnNSSWpjWI0efspD5Kle8dnJCX0Ws4EUnbS21qZ9PaLcVWTszuT9iHhJ3TfQ==";}}s:6:"SERVER";a:41:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_USER_AGENT";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"CONTENT_LENGTH";s:2:"98";s:11:"HTTP_COOKIE";s:421:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; PHPSESSID=de3fb3r93ussjg332d1ft1nk70; _csrf=e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC%22%3B%7D";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:4:"PATH";s:1924:"C:\app\product\11.1.0\db_1\bin;C:\app\client\oracle\bin;C:\Users\Barthelemy\bin;C:\Users\Barthelemy;F:\app\Barthelemy\product\12.1.0\client_1;C:\Program Files\Python35\Scripts\;C:\Program Files\Python35\;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\wamp\bin\php\php5.5.12;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\curl;C:\Program Files (x86)\Git\cmd;C:\wamp64\bin\php\php5.6.25;C:\ProgramData\ComposerSetup\bin;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\wamp128\bin\php\php5.6.25;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:62:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:80:"<address>Apache/2.4.23 (Win64) PHP/5.6.25 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:32:"Apache/2.4.23 (Win64) PHP/5.6.25";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:12:"SERVER_ADMIN";s:29:"wampserver@wampserver.invalid";s:15:"SCRIPT_FILENAME";s:32:"C:/wamp64/www/sgops_v2/index.php";s:11:"REMOTE_PORT";s:4:"2217";s:12:"REDIRECT_URL";s:40:"/sgops_v2/secteurs-activites-data/delete";s:21:"REDIRECT_QUERY_STRING";s:120:"idsecteurs_activites_data=20008&profil_entreprise_idprofil_entreprise=20014&secteurs_activites_idsecteurs_activites=1005";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:120:"idsecteurs_activites_data=20008&profil_entreprise_idprofil_entreprise=20014&secteurs_activites_idsecteurs_activites=1005";s:11:"REQUEST_URI";s:161:"/sgops_v2/secteurs-activites-data/delete?idsecteurs_activites_data=20008&profil_entreprise_idprofil_entreprise=20014&secteurs_activites_idsecteurs_activites=1005";s:11:"SCRIPT_NAME";s:19:"/sgops_v2/index.php";s:8:"PHP_SELF";s:19:"/sgops_v2/index.php";s:18:"REQUEST_TIME_FLOAT";d:1516625362.464;s:12:"REQUEST_TIME";i:1516625362;}s:3:"GET";a:3:{s:25:"idsecteurs_activites_data";s:5:"20008";s:37:"profil_entreprise_idprofil_entreprise";s:5:"20014";s:39:"secteurs_activites_idsecteurs_activites";s:4:"1005";}s:4:"POST";a:1:{s:5:"_csrf";s:88:"MKamRKTd24cJT30H7yIhOwa1kgCnNSSWpjWI0efspD5Kle8dnJCX0Ws4EUnbS21qZ9PaLcVWTszuT9iHhJ3TfQ==";}s:6:"COOKIE";a:3:{s:9:"_identity";s:151:"1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba:2:{i:0;s:9:"_identity";i:1;s:49:"[2012,"Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn",2592000]";}";s:9:"PHPSESSID";s:26:"de3fb3r93ussjg332d1ft1nk70";s:5:"_csrf";s:130:"e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a:2:{i:0;s:5:"_csrf";i:1;s:32:"z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:2012;}}";s:3:"log";s:10166:"a:1:{s:8:"messages";a:20:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625362.58723;i:4;a:0:{}i:5;i:3644248;}i:1;a:6:{i:0;s:37:"Bootstrap with app\components\Aliases";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625362.596828;i:4;a:0:{}i:5;i:3959920;}i:2;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516625362.5970869;i:4;a:0:{}i:5;i:3962376;}i:3;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1516625362.6653459;i:4;a:0:{}i:5;i:5531520;}i:4;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7428541;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8481832;}i:5;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625362.7439721;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8489720;}i:10;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7555499;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8574272;}i:13;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.768856;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8579544;}i:16;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.777946;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8628768;}i:19;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625362.8237441;i:4;a:0:{}i:5;i:9561928;}i:20;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516625362.846498;i:4;a:0:{}i:5;i:10163488;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625362.8517859;i:4;a:0:{}i:5;i:10230944;}i:29;a:6:{i:0;s:49:"Route requested: 'secteurs-activites-data/delete'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1516625362.858968;i:4;a:0:{}i:5;i:10293912;}i:30;a:6:{i:0;s:44:"Route to run: secteurs-activites-data/delete";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1516625362.8658991;i:4;a:0:{}i:5;i:10469624;}i:31;a:6:{i:0;s:79:"Running action: app\controllers\SecteursActivitesDataController::actionDelete()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1516625362.870296;i:4;a:0:{}i:5;i:10513168;}i:32;a:6:{i:0;s:192:"SELECT * FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]='1005')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8741231;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10615936;}i:35;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.877739;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10644144;}i:38;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8909471;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10653248;}i:41;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8990819;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10673768;}i:44;a:6:{i:0;s:188:"DELETE FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]=1005)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625362.906069;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:10684504;}}}";s:9:"profiling";s:17190:"a:3:{s:6:"memory";i:10958400;s:4:"time";d:0.41908502578735352;s:8:"messages";a:20:{i:6;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625362.7447591;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8492152;}i:7;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625362.7474129;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8522552;}i:8;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.748909;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8521712;}i:9;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7508471;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8531968;}i:11;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.756422;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8578176;}i:12;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7668049;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8582368;}i:14;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.769948;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8583832;}i:15;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.772769;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8601744;}i:17;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7787199;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8633216;}i:18;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7814989;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8637360;}i:33;a:6:{i:0;s:192:"SELECT * FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]='1005')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8746459;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10620728;}i:34;a:6:{i:0;s:192:"SELECT * FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]='1005')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8756039;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10628976;}i:36;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.878356;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10649320;}i:37;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8888509;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10656160;}i:39;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8923659;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10658816;}i:40;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8950069;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10672720;}i:42;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.899997;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10679320;}i:43;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.9019821;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10686968;}i:45;a:6:{i:0;s:188:"DELETE FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]=1005)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625362.906467;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:10687768;}i:46;a:6:{i:0;s:188:"DELETE FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]=1005)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625362.90785;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:10690352;}}}";s:2:"db";s:16393:"a:1:{s:8:"messages";a:18:{i:8;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.748909;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8521712;}i:9;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7508471;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8531968;}i:11;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.756422;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8578176;}i:12;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7668049;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8582368;}i:14;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.769948;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8583832;}i:15;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.772769;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8601744;}i:17;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7787199;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8633216;}i:18;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.7814989;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8637360;}i:33;a:6:{i:0;s:192:"SELECT * FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]='1005')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8746459;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10620728;}i:34;a:6:{i:0;s:192:"SELECT * FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]='1005')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8756039;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10628976;}i:36;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.878356;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10649320;}i:37;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8888509;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10656160;}i:39;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8923659;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10658816;}i:40;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.8950069;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10672720;}i:42;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.899997;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10679320;}i:43;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625362.9019821;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:128;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:9:"findModel";s:5:"class";s:47:"app\controllers\SecteursActivitesDataController";s:4:"type";s:2:"->";}}i:5;i:10686968;}i:45;a:6:{i:0;s:188:"DELETE FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]=1005)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625362.906467;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:10687768;}i:46;a:6:{i:0;s:188:"DELETE FROM [secteurs_activites_data] WHERE ([idsecteurs_activites_data]='20008') AND ([profil_entreprise_idprofil_entreprise]='20014') AND ([secteurs_activites_idsecteurs_activites]=1005)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625362.90785;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"C:\wamp64\www\sgops_v2\_protected\controllers\SecteursActivitesDataController.php";s:4:"line";i:112;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:10690352;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:93:"a:3:{s:5:"start";d:1516625362.521126;s:3:"end";d:1516625362.9413049;s:6:"memory";i:10981736;}";s:4:"user";s:2710:"a:5:{s:2:"id";i:2012;s:8:"identity";a:10:{s:2:"id";s:4:"2012";s:8:"username";s:6:"'samy'";s:5:"email";s:23:"'samyjanvier@gmail.com'";s:13:"password_hash";s:62:"'$2y$13$CssDhd6f3g3Xoe1TLT0yf.OIpKkcsVDYEB9DO8/FCs06hOO1ZGFl.'";s:6:"status";s:2:"10";s:8:"auth_key";s:34:"'Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn'";s:20:"password_reset_token";s:45:"'Q-tWg_ffqoX8f_J1hi-8Mnhx_8gU-xUm_1516495677'";s:24:"account_activation_token";s:45:"'-Egztnux7NRU2zorktm_WXiyR4YddSmY_1516495677'";s:10:"created_at";s:10:"1516495677";s:10:"updated_at";s:10:"1516495677";}s:10:"attributes";a:10:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"Id";}i:1;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:8:"Username";}i:2;a:2:{s:9:"attribute";s:5:"email";s:5:"label";s:5:"Email";}i:3;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:4;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:5;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:6;a:2:{s:9:"attribute";s:20:"password_reset_token";s:5:"label";s:20:"Password Reset Token";}i:7;a:2:{s:9:"attribute";s:24:"account_activation_token";s:5:"label";s:24:"Account Activation Token";}i:8;a:2:{s:9:"attribute";s:10:"created_at";s:5:"label";s:10:"Created At";}i:9;a:2:{s:9:"attribute";s:10:"updated_at";s:5:"label";s:10:"Updated At";}}s:13:"rolesProvider";O:26:"yii\data\ArrayDataProvider":11:{s:3:"key";N;s:9:"allModels";a:1:{s:8:"employee";a:7:{s:4:"type";s:1:"1";s:4:"name";s:8:"employee";s:11:"description";s:61:"Employee of this site/company who has lower rights than admin";s:8:"ruleName";N;s:4:"data";s:4:"null";s:9:"createdAt";s:10:"1502230923";s:9:"updatedAt";s:10:"1502230923";}}s:10:"modelClass";N;s:2:"id";N;s:32:" yii\data\BaseDataProvider _sort";N;s:38:" yii\data\BaseDataProvider _pagination";N;s:32:" yii\data\BaseDataProvider _keys";N;s:34:" yii\data\BaseDataProvider _models";N;s:38:" yii\data\BaseDataProvider _totalCount";N;s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";N;}s:19:"permissionsProvider";O:26:"yii\data\ArrayDataProvider":11:{s:3:"key";N;s:9:"allModels";a:1:{s:17:"usePremiumContent";a:7:{s:4:"type";s:1:"2";s:4:"name";s:17:"usePremiumContent";s:11:"description";s:44:"Allows premium+ roles to use premium content";s:8:"ruleName";N;s:4:"data";s:4:"null";s:9:"createdAt";s:10:"1502230922";s:9:"updatedAt";s:10:"1502230922";}}s:10:"modelClass";N;s:2:"id";s:4:"dp-1";s:32:" yii\data\BaseDataProvider _sort";N;s:38:" yii\data\BaseDataProvider _pagination";N;s:32:" yii\data\BaseDataProvider _keys";N;s:34:" yii\data\BaseDataProvider _models";N;s:38:" yii\data\BaseDataProvider _totalCount";N;s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";N;}}";s:6:"router";s:1356:"a:1:{s:8:"messages";a:7:{i:22;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.8575959;i:4;a:0:{}i:5;i:10284144;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.857923;i:4;a:0:{}i:5;i:10285920;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.858124;i:4;a:0:{}i:5;i:10287744;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.8583119;i:4;a:0:{}i:5;i:10289536;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.8584981;i:4;a:0:{}i:5;i:10291360;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:11:"<alias:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.8586881;i:4;a:0:{}i:5;i:10293152;}i:28;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625362.8588099;i:4;a:0:{}i:5;i:10294416;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5a65ddd2ca11b";s:3:"url";s:177:"http://localhost/sgops_v2/secteurs-activites-data/delete?idsecteurs_activites_data=20008&profil_entreprise_idprofil_entreprise=20014&secteurs_activites_idsecteurs_activites=1005";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:3:"::1";s:4:"time";d:1516625362.464;s:10:"statusCode";i:302;s:8:"sqlCount";i:9;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}

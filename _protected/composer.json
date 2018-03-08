@@ -1,0 +1,7 @@
+{
+    "require": {
+        "c006/yii2-migration-utility": "dev-master",
+        "kartik-v/yii2-widgets": "*",
+        "kartik-v/yii2-grid": "@dev"
+    }
+}

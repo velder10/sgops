@@ -1,0 +1,151 @@
+.portlet {
+  padding: 0px;
+  margin-bottom: 1em;
+}
+.portlet-title, .content-title {
+    position: relative;
+    display: block;
+    margin-bottom: 1.35em;
+    border-bottom: 1px solid #E3E3E3;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #E3E3E3;
+}
+.portlet-title u, .content-title u {
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    padding-right: 1em;
+        padding-right-value: 1em;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    padding-bottom: 15px;
+    color: #444;
+    text-decoration: none;
+        text-decoration-color: -moz-use-text-color;
+        text-decoration-line: none;
+        text-decoration-style: solid;
+    border-bottom: 1px solid #6685A4;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #6685A4;
+}
+.portlet-body {
+    padding: 0px;
+}
+.row-stat {
+    position: relative;
+}
+.row-stat {
+    padding: 17px 13px 21px;
+        padding-top: 17px;
+        padding-right-value: 13px;
+        padding-bottom: 21px;
+        padding-left-value: 13px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    margin-bottom: 1.25em;
+    border: 1px solid #DDD;
+        border-top-width: 1px;
+        border-right-width-value: 1px;
+        border-right-width-ltr-source: physical;
+        border-right-width-rtl-source: physical;
+        border-bottom-width: 1px;
+        border-left-width-value: 1px;
+        border-left-width-ltr-source: physical;
+        border-left-width-rtl-source: physical;
+        border-top-style: solid;
+        border-right-style-value: solid;
+        border-right-style-ltr-source: physical;
+        border-right-style-rtl-source: physical;
+        border-bottom-style: solid;
+        border-left-style-value: solid;
+        border-left-style-ltr-source: physical;
+        border-left-style-rtl-source: physical;
+        border-top-color: #DDD;
+        border-right-color-value: rgb(221, 221, 221);
+        border-right-color-ltr-source: physical;
+        border-right-color-rtl-source: physical;
+        border-bottom-color: #DDD;
+        border-left-color-value: rgb(221, 221, 221);
+        border-left-color-ltr-source: physical;
+        border-left-color-rtl-source: physical;
+        -moz-border-top-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        border-image-source: none;
+        border-image-slice: 100% 100% 100% 100%;
+        border-image-width: 1 1 1 1;
+        border-image-outset: 0 0 0 0;
+        border-image-repeat: stretch stretch;
+    border-radius: 3px;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px;
+}
+.row-stat-label {
+    color: #999;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.row-stat-value {
+    display: inline-block;
+    margin-right: 0.25em;
+    margin-bottom: 0px;
+}
+.label {
+    font-weight: 600;
+}
+.row-stat-badge {
+    position: relative;
+    top: -3px;
+    font-size: 85%;
+}
+.chart-bg-secondary {
+    background: none repeat scroll 0% 0% #6685A4;
+}				
+.chart-bg {
+    padding: 30px 30px 20px;
+        padding-top: 30px;
+        padding-right-value: 30px;
+        padding-bottom: 20px;
+        padding-left-value: 30px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    background: none repeat scroll 0% 0% #7BB4E3;
+        background-color: #7BB4E3;
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    border-radius: 4px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+}
+.chart-holder-250 {
+    height: 250px;
+}
+.chart-holder, .chart-holder-200, .chart-holder-250 {
+    width: 98%;
+    margin: 0px auto;
+        margin-top: 0px;
+        margin-right-value: auto;
+        margin-bottom: 0px;
+        margin-left-value: auto;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+        margin-right-ltr-source: physical;
+        margin-right-rtl-source: physical;
+}

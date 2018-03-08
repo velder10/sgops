@@ -1,0 +1,1322 @@
+a:12:{s:6:"config";s:6955:"a:5:{s:10:"phpVersion";s:6:"5.6.25";s:10:"yiiVersion";s:10:"2.0.14-dev";s:11:"application";a:8:{s:3:"yii";s:10:"2.0.14-dev";s:4:"name";s:5:"BASIC";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.25";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:28:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-swiftmailer";}}s:22:"kartik-v/yii2-password";a:3:{s:4:"name";s:22:"kartik-v/yii2-password";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/password";s:63:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-password";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/grid";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-grid";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:63:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-bootstrap";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/base";s:66:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/time";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:73:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/rating";s:68:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/range";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/growl";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/file";s:71:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:69:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:76:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/color";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/alert";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/affix";s:67:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/form";s:72:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:62:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-widgets";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/debug";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:8:"@yii/gii";s:57:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"C:\wamp64\www\sgops_v2\_protected\vendor/yiisoft/yii2-faker";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:61:"C:\wamp64\www\sgops_v2\_protected\vendor/kartik-v/yii2-dialog";}}}}";s:7:"request";s:8627:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:11:{s:4:"host";s:9:"localhost";s:10:"user-agent";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0";s:6:"accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"accept-language";s:35:"fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:14:"content-length";s:3:"543";s:6:"cookie";s:421:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; PHPSESSID=de3fb3r93ussjg332d1ft1nk70; _csrf=e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC%22%3B%7D";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";}s:15:"responseHeaders";a:10:{s:12:"X-Powered-By";s:10:"PHP/5.6.25";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:8:"Location";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5a65ddaf6f870";s:16:"X-Debug-Duration";s:5:"3,429";s:12:"X-Debug-Link";s:46:"/sgops_v2/debug/default/view?tag=5a65ddaf6f870";s:10:"Set-Cookie";s:283:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; expires=Wed, 21-Feb-2018 12:48:47 GMT; Max-Age=2591998; path=/; httponly";}s:5:"route";s:22:"profil-entreprise/view";s:6:"action";s:56:"app\controllers\ProfilEntrepriseController::actionView()";s:12:"actionParams";a:1:{i:0;s:5:"20014";}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:543:"_csrf=VMrdJtE3EH74tCXekLK9lAH8ztecyg5nsugiCeJ_xagu-ZR_6XpcKJrDSZCk2_HFYJqG-v6pZD36knJfgQ6y6w%3D%3D&SecteursActivitesData%5Bfirme_construction2%5D=&SecteursActivitesData%5Bfirme_construction2%5D%5B%5D=Autre&SecteursActivitesData%5Bautre_firme_construction2%5D=OK&SecteursActivitesData%5Btech_info2%5D=&SecteursActivitesData%5Bautre_tech_info2%5D=&SecteursActivitesData%5Bcompt_finan_mana2%5D=&SecteursActivitesData%5Bautre_compt_finan_mana2%5D=&SecteursActivitesData%5Brenforcement_inst2%5D=&SecteursActivitesData%5Bautre_renforcement_inst2%5D=";s:17:"Decoded to Params";a:2:{s:5:"_csrf";s:88:"VMrdJtE3EH74tCXekLK9lAH8ztecyg5nsugiCeJ_xagu-ZR_6XpcKJrDSZCk2_HFYJqG-v6pZD36knJfgQ6y6w==";s:21:"SecteursActivitesData";a:8:{s:19:"firme_construction2";a:1:{i:0;s:5:"Autre";}s:25:"autre_firme_construction2";s:2:"OK";s:10:"tech_info2";s:0:"";s:16:"autre_tech_info2";s:0:"";s:17:"compt_finan_mana2";s:0:"";s:23:"autre_compt_finan_mana2";s:0:"";s:18:"renforcement_inst2";s:0:"";s:24:"autre_renforcement_inst2";s:0:"";}}}s:6:"SERVER";a:41:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_USER_AGENT";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"CONTENT_LENGTH";s:3:"543";s:11:"HTTP_COOKIE";s:421:"_identity=1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A49%3A%22%5B2012%2C%22Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn%22%2C2592000%5D%22%3B%7D; PHPSESSID=de3fb3r93ussjg332d1ft1nk70; _csrf=e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC%22%3B%7D";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:4:"PATH";s:1924:"C:\app\product\11.1.0\db_1\bin;C:\app\client\oracle\bin;C:\Users\Barthelemy\bin;C:\Users\Barthelemy;F:\app\Barthelemy\product\12.1.0\client_1;C:\Program Files\Python35\Scripts\;C:\Program Files\Python35\;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\wamp\bin\php\php5.5.12;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\curl;C:\Program Files (x86)\Git\cmd;C:\wamp64\bin\php\php5.6.25;C:\ProgramData\ComposerSetup\bin;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\wamp128\bin\php\php5.6.25;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:62:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:80:"<address>Apache/2.4.23 (Win64) PHP/5.6.25 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:32:"Apache/2.4.23 (Win64) PHP/5.6.25";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:12:"SERVER_ADMIN";s:29:"wampserver@wampserver.invalid";s:15:"SCRIPT_FILENAME";s:32:"C:/wamp64/www/sgops_v2/index.php";s:11:"REMOTE_PORT";s:4:"2214";s:12:"REDIRECT_URL";s:32:"/sgops_v2/profil-entreprise/view";s:21:"REDIRECT_QUERY_STRING";s:8:"id=20014";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:8:"id=20014";s:11:"REQUEST_URI";s:41:"/sgops_v2/profil-entreprise/view?id=20014";s:11:"SCRIPT_NAME";s:19:"/sgops_v2/index.php";s:8:"PHP_SELF";s:19:"/sgops_v2/index.php";s:18:"REQUEST_TIME_FLOAT";d:1516625326.454;s:12:"REQUEST_TIME";i:1516625326;}s:3:"GET";a:1:{s:2:"id";s:5:"20014";}s:4:"POST";a:2:{s:5:"_csrf";s:88:"VMrdJtE3EH74tCXekLK9lAH8ztecyg5nsugiCeJ_xagu-ZR_6XpcKJrDSZCk2_HFYJqG-v6pZD36knJfgQ6y6w==";s:21:"SecteursActivitesData";a:8:{s:19:"firme_construction2";a:1:{i:0;s:5:"Autre";}s:25:"autre_firme_construction2";s:2:"OK";s:10:"tech_info2";s:0:"";s:16:"autre_tech_info2";s:0:"";s:17:"compt_finan_mana2";s:0:"";s:23:"autre_compt_finan_mana2";s:0:"";s:18:"renforcement_inst2";s:0:"";s:24:"autre_renforcement_inst2";s:0:"";}}s:6:"COOKIE";a:3:{s:9:"_identity";s:151:"1355b53ce64758d6e564549a17975a07e2f8bbe4b2fd4ec8a9209376a58eb40ba:2:{i:0;s:9:"_identity";i:1;s:49:"[2012,"Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn",2592000]";}";s:9:"PHPSESSID";s:26:"de3fb3r93ussjg332d1ft1nk70";s:5:"_csrf";s:130:"e680f7ae410b08a0bfe82815f28cf2ed3b2193b9ebf7f7df8037261d78d1c8a0a:2:{i:0;s:5:"_csrf";i:1;s:32:"z3IY8MLVbwlN4iLQafH-bcjZHzPVcqwC";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:2012;}}";s:3:"log";s:22179:"a:1:{s:8:"messages";a:36:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625326.5862851;i:4;a:0:{}i:5;i:3646944;}i:1;a:6:{i:0;s:37:"Bootstrap with app\components\Aliases";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625326.6014349;i:4;a:0:{}i:5;i:3962648;}i:2;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516625326.601697;i:4;a:0:{}i:5;i:3965104;}i:3;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1516625326.6851659;i:4;a:0:{}i:5;i:5534344;}i:4;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.767632;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8484608;}i:5;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625326.768714;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8492496;}i:10;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.785794;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8577032;}i:13;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.1192861;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8582296;}i:16;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.24787;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8631536;}i:19;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625327.4527509;i:4;a:0:{}i:5;i:9564696;}i:20;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516625327.481792;i:4;a:0:{}i:5;i:10166192;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516625327.484839;i:4;a:0:{}i:5;i:10233632;}i:29;a:6:{i:0;s:41:"Route requested: 'profil-entreprise/view'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1516625327.4922431;i:4;a:0:{}i:5;i:10296320;}i:30;a:6:{i:0;s:36:"Route to run: profil-entreprise/view";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1516625327.501775;i:4;a:0:{}i:5;i:10589040;}i:31;a:6:{i:0;s:72:"Running action: app\controllers\ProfilEntrepriseController::actionView()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1516625327.5055521;i:4;a:0:{}i:5;i:10632160;}i:32;a:6:{i:0;s:85:"SELECT * FROM [categories_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.517951;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10954024;}i:35;a:6:{i:0;s:502:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'categories_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.5266049;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10981600;}i:38;a:6:{i:0;s:778:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'categories_data' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9002731;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10986632;}i:41;a:6:{i:0;s:657:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.categories_data')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9847419;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11003488;}i:44;a:6:{i:0;s:93:"SELECT * FROM [secteurs_activites_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.0955501;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11000928;}i:47;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.1045401;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11031592;}i:50;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.431711;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11037032;}i:53;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.5127771;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11053904;}i:56;a:6:{i:0;s:82:"SELECT * FROM [ressources_h] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.6103311;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11053840;}i:59;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_h' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.617866;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11082488;}i:62;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_h' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.900681;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11087680;}i:65;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_h')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.9875259;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11109568;}i:68;a:6:{i:0;s:82:"SELECT * FROM [ressources_m] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0601759;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11106384;}i:71;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_m' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0693231;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11133688;}i:74;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_m' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.3468361;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11138880;}i:77;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_m')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.441817;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11155720;}i:80;a:6:{i:0;s:58:"SELECT * FROM [secteurs_activites] WHERE [secteur]='Autre'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.5493081;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11957736;}i:83;a:6:{i:0;s:505:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.5552149;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11982864;}i:86;a:6:{i:0;s:781:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.785337;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11987912;}i:89;a:6:{i:0;s:660:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.849761;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12004704;}i:92;a:6:{i:0;s:208:"INSERT INTO [secteurs_activites_data] ([profil_entreprise_idprofil_entreprise], [createdBy], [createdOn], [libelle], [secteurs_activites_idsecteurs_activites]) VALUES ('20014', 2012, '2018-01-22', 'OK', 2002)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625329.922899;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:149;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:12015952;}}}";s:9:"profiling";s:41285:"a:3:{s:6:"memory";i:12296160;s:4:"time";d:3.445457935333252;s:8:"messages";a:52:{i:6;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625326.7691591;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8494928;}i:7;a:6:{i:0;s:61:"Opening DB connection: sqlsrv:Server=127.0.0.1;Database=sgops";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1516625326.7712801;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8525328;}i:8;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.772275;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8524488;}i:9;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.7799699;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8534744;}i:11;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.7866099;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8580928;}i:12;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.117836;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8585120;}i:14;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.1200509;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8586584;}i:15;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.2395771;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8604496;}i:17;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.2492061;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8635968;}i:18;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.4005959;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8640112;}i:33;a:6:{i:0;s:85:"SELECT * FROM [categories_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.5186911;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10957536;}i:34;a:6:{i:0;s:85:"SELECT * FROM [categories_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.5237141;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10965360;}i:36;a:6:{i:0;s:502:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'categories_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.52773;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10985560;}i:37;a:6:{i:0;s:502:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'categories_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.898546;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10989784;}i:39;a:6:{i:0;s:778:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'categories_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9008119;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10990992;}i:40;a:6:{i:0;s:778:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'categories_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.980808;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11003664;}i:42;a:6:{i:0;s:657:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.categories_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9856181;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11007840;}i:43;a:6:{i:0;s:657:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.categories_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.090548;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11014216;}i:45;a:6:{i:0;s:93:"SELECT * FROM [secteurs_activites_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.0962739;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11004200;}i:46;a:6:{i:0;s:93:"SELECT * FROM [secteurs_activites_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.1017721;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11014752;}i:48;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.10549;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11035560;}i:49;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.430479;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11041160;}i:51;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.432215;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11041384;}i:52;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.5086181;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11054072;}i:54;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.5135031;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11058240;}i:55;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.60447;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11064672;}i:57;a:6:{i:0;s:82:"SELECT * FROM [ressources_h] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.610785;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11057104;}i:58;a:6:{i:0;s:82:"SELECT * FROM [ressources_h] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.6160481;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11067824;}i:60;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_h' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.6184399;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11086448;}i:61;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_h' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.899374;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11091320;}i:63;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_h' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.9011841;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11092000;}i:64;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_h' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.984309;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11109808;}i:66;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_h')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.988061;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11113944;}i:67;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_h')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0558169;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11119288;}i:69;a:6:{i:0;s:82:"SELECT * FROM [ressources_m] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.060961;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11109624;}i:70;a:6:{i:0;s:82:"SELECT * FROM [ressources_m] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0666921;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11117432;}i:72;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_m' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0702569;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11137648;}i:73;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_m' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.345021;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11142520;}i:75;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_m' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.347692;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11143200;}i:76;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_m' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.4393129;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11155880;}i:78;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_m')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.4425349;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11160064;}i:79;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_m')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.5211761;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11165432;}i:81;a:6:{i:0;s:58:"SELECT * FROM [secteurs_activites] WHERE [secteur]='Autre'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.549746;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11960904;}i:82;a:6:{i:0;s:58:"SELECT * FROM [secteurs_activites] WHERE [secteur]='Autre'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.55338;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11967864;}i:84;a:6:{i:0;s:505:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.555769;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11986832;}i:85;a:6:{i:0;s:505:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.784133;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11991056;}i:87;a:6:{i:0;s:781:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.78584;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11992264;}i:88;a:6:{i:0;s:781:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.847358;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12004912;}i:90;a:6:{i:0;s:660:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.8502841;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12009032;}i:91;a:6:{i:0;s:660:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.918788;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12013176;}i:93;a:6:{i:0;s:208:"INSERT INTO [secteurs_activites_data] ([profil_entreprise_idprofil_entreprise], [createdBy], [createdOn], [libelle], [secteurs_activites_idsecteurs_activites]) VALUES ('20014', 2012, '2018-01-22', 'OK', 2002)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625329.9233251;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:149;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:12019104;}i:94;a:6:{i:0;s:208:"INSERT INTO [secteurs_activites_data] ([profil_entreprise_idprofil_entreprise], [createdBy], [createdOn], [libelle], [secteurs_activites_idsecteurs_activites]) VALUES ('20014', 2012, '2018-01-22', 'OK', 2002)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625329.930232;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:149;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:12021664;}}}";s:2:"db";s:40490:"a:1:{s:8:"messages";a:50:{i:8;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.772275;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8524488;}i:9;a:6:{i:0;s:56:"SELECT * FROM [user] WHERE ([id]=2012) AND ([status]=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.7799699;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8534744;}i:11;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625326.7866099;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8580928;}i:12;a:6:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'user' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.117836;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8585120;}i:14;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.1200509;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8586584;}i:15;a:6:{i:0;s:767:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'user' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.2395771;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8604496;}i:17;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.2492061;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8635968;}i:18;a:6:{i:0;s:646:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.user')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.4005959;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"C:\wamp64\www\sgops_v2\_protected\models\UserIdentity.php";s:4:"line";i:50;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:8640112;}i:33;a:6:{i:0;s:85:"SELECT * FROM [categories_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.5186911;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10957536;}i:34;a:6:{i:0;s:85:"SELECT * FROM [categories_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.5237141;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10965360;}i:36;a:6:{i:0;s:502:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'categories_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.52773;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10985560;}i:37;a:6:{i:0;s:502:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'categories_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.898546;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10989784;}i:39;a:6:{i:0;s:778:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'categories_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9008119;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10990992;}i:40;a:6:{i:0;s:778:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'categories_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.980808;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11003664;}i:42;a:6:{i:0;s:657:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.categories_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625327.9856181;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11007840;}i:43;a:6:{i:0;s:657:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.categories_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.090548;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:127;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11014216;}i:45;a:6:{i:0;s:93:"SELECT * FROM [secteurs_activites_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.0962739;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11004200;}i:46;a:6:{i:0;s:93:"SELECT * FROM [secteurs_activites_data] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.1017721;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11014752;}i:48;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.10549;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11035560;}i:49;a:6:{i:0;s:510:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites_data' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.430479;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11041160;}i:51;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.432215;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11041384;}i:52;a:6:{i:0;s:786:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites_data' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.5086181;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11054072;}i:54;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.5135031;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11058240;}i:55;a:6:{i:0;s:665:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites_data')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.60447;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11064672;}i:57;a:6:{i:0;s:82:"SELECT * FROM [ressources_h] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.610785;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11057104;}i:58;a:6:{i:0;s:82:"SELECT * FROM [ressources_h] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.6160481;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11067824;}i:60;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_h' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.6184399;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11086448;}i:61;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_h' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.899374;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11091320;}i:63;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_h' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.9011841;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11092000;}i:64;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_h' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.984309;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11109808;}i:66;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_h')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625328.988061;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11113944;}i:67;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_h')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0558169;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:129;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11119288;}i:69;a:6:{i:0;s:82:"SELECT * FROM [ressources_m] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.060961;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11109624;}i:70;a:6:{i:0;s:82:"SELECT * FROM [ressources_m] WHERE [profil_entreprise_idprofil_entreprise]='20014'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0666921;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11117432;}i:72;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_m' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.0702569;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11137648;}i:73;a:6:{i:0;s:499:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'ressources_m' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.345021;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11142520;}i:75;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_m' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.347692;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11143200;}i:76;a:6:{i:0;s:775:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'ressources_m' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.4393129;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11155880;}i:78;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_m')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.4425349;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11160064;}i:79;a:6:{i:0;s:654:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.ressources_m')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.5211761;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:130;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11165432;}i:81;a:6:{i:0;s:58:"SELECT * FROM [secteurs_activites] WHERE [secteur]='Autre'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.549746;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11960904;}i:82;a:6:{i:0;s:58:"SELECT * FROM [secteurs_activites] WHERE [secteur]='Autre'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.55338;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11967864;}i:84;a:6:{i:0;s:505:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.555769;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11986832;}i:85;a:6:{i:0;s:505:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'secteurs_activites' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.784133;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11991056;}i:87;a:6:{i:0;s:781:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.78584;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:11992264;}i:88;a:6:{i:0;s:781:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'secteurs_activites' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.847358;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12004912;}i:90;a:6:{i:0;s:660:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.8502841;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12009032;}i:91;a:6:{i:0;s:660:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.secteurs_activites')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516625329.918788;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:142;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:12013176;}i:93;a:6:{i:0;s:208:"INSERT INTO [secteurs_activites_data] ([profil_entreprise_idprofil_entreprise], [createdBy], [createdOn], [libelle], [secteurs_activites_idsecteurs_activites]) VALUES ('20014', 2012, '2018-01-22', 'OK', 2002)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625329.9233251;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:149;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:12019104;}i:94;a:6:{i:0;s:208:"INSERT INTO [secteurs_activites_data] ([profil_entreprise_idprofil_entreprise], [createdBy], [createdOn], [libelle], [secteurs_activites_idsecteurs_activites]) VALUES ('20014', 2012, '2018-01-22', 'OK', 2002)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1516625329.930232;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"C:\wamp64\www\sgops_v2\_protected\controllers\ProfilEntrepriseController.php";s:4:"line";i:149;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:12021664;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:94:"a:3:{s:5:"start";d:1516625326.5110631;s:3:"end";d:1516625329.9597361;s:6:"memory";i:12439648;}";s:4:"user";s:2710:"a:5:{s:2:"id";i:2012;s:8:"identity";a:10:{s:2:"id";s:4:"2012";s:8:"username";s:6:"'samy'";s:5:"email";s:23:"'samyjanvier@gmail.com'";s:13:"password_hash";s:62:"'$2y$13$CssDhd6f3g3Xoe1TLT0yf.OIpKkcsVDYEB9DO8/FCs06hOO1ZGFl.'";s:6:"status";s:2:"10";s:8:"auth_key";s:34:"'Rb-j3k4zkjt2hz8PPU4P0L_0Cn9T7dcn'";s:20:"password_reset_token";s:45:"'Q-tWg_ffqoX8f_J1hi-8Mnhx_8gU-xUm_1516495677'";s:24:"account_activation_token";s:45:"'-Egztnux7NRU2zorktm_WXiyR4YddSmY_1516495677'";s:10:"created_at";s:10:"1516495677";s:10:"updated_at";s:10:"1516495677";}s:10:"attributes";a:10:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"Id";}i:1;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:8:"Username";}i:2;a:2:{s:9:"attribute";s:5:"email";s:5:"label";s:5:"Email";}i:3;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:4;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:5;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:6;a:2:{s:9:"attribute";s:20:"password_reset_token";s:5:"label";s:20:"Password Reset Token";}i:7;a:2:{s:9:"attribute";s:24:"account_activation_token";s:5:"label";s:24:"Account Activation Token";}i:8;a:2:{s:9:"attribute";s:10:"created_at";s:5:"label";s:10:"Created At";}i:9;a:2:{s:9:"attribute";s:10:"updated_at";s:5:"label";s:10:"Updated At";}}s:13:"rolesProvider";O:26:"yii\data\ArrayDataProvider":11:{s:3:"key";N;s:9:"allModels";a:1:{s:8:"employee";a:7:{s:4:"type";s:1:"1";s:4:"name";s:8:"employee";s:11:"description";s:61:"Employee of this site/company who has lower rights than admin";s:8:"ruleName";N;s:4:"data";s:4:"null";s:9:"createdAt";s:10:"1502230923";s:9:"updatedAt";s:10:"1502230923";}}s:10:"modelClass";N;s:2:"id";N;s:32:" yii\data\BaseDataProvider _sort";N;s:38:" yii\data\BaseDataProvider _pagination";N;s:32:" yii\data\BaseDataProvider _keys";N;s:34:" yii\data\BaseDataProvider _models";N;s:38:" yii\data\BaseDataProvider _totalCount";N;s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";N;}s:19:"permissionsProvider";O:26:"yii\data\ArrayDataProvider":11:{s:3:"key";N;s:9:"allModels";a:1:{s:17:"usePremiumContent";a:7:{s:4:"type";s:1:"2";s:4:"name";s:17:"usePremiumContent";s:11:"description";s:44:"Allows premium+ roles to use premium content";s:8:"ruleName";N;s:4:"data";s:4:"null";s:9:"createdAt";s:10:"1502230922";s:9:"updatedAt";s:10:"1502230922";}}s:10:"modelClass";N;s:2:"id";s:4:"dp-1";s:32:" yii\data\BaseDataProvider _sort";N;s:38:" yii\data\BaseDataProvider _pagination";N;s:32:" yii\data\BaseDataProvider _keys";N;s:34:" yii\data\BaseDataProvider _models";N;s:38:" yii\data\BaseDataProvider _totalCount";N;s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";N;}}";s:6:"router";s:1357:"a:1:{s:8:"messages";a:7:{i:22;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4898911;i:4;a:0:{}i:5;i:10286824;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4902749;i:4;a:0:{}i:5;i:10288600;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4906449;i:4;a:0:{}i:5;i:10290424;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.490998;i:4;a:0:{}i:5;i:10292216;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4913449;i:4;a:0:{}i:5;i:10294040;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:11:"<alias:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4917259;i:4;a:0:{}i:5;i:10295832;}i:28;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516625327.4919541;i:4;a:0:{}i:5;i:10297096;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5a65ddaf6f870";s:3:"url";s:57:"http://localhost/sgops_v2/profil-entreprise/view?id=20014";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:3:"::1";s:4:"time";d:1516625326.454;s:10:"statusCode";i:302;s:8:"sqlCount";i:25;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
